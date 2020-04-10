@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdate>
+  <Description>更新列表文件</Description>
+  <Application ApplicationId="f770f9f8-96f0-46a6-a8ec-b2b43657126c">
+    <EntryPoint>企业信息化管理系统</EntryPoint>
+    <Location>.</Location>
+    <Version>1.0.2</Version>
+  </Application>
+  <Updater>
+    <Url>ftp://172.20.58.5:8017/SoftUpdate/RightingSys</Url>
+    <LastUpdateTime>2020-04-09 15:57:32</LastUpdateTime>
+  </Updater>
+  <Files>
+    <File FileSize="89" LastTime="2020-04-09:15:52:00" Ver="" Name="\AppConfig.ini" />
+    <File FileSize="11244032" LastTime="2020-03-27:12:28:49" Ver="17.2.7.18110" Name="\DevExpress.BonusSkins.v17.2.dll" />
+    <File FileSize="6409216" LastTime="2020-03-27:12:28:41" Ver="17.2.7.18110" Name="\DevExpress.Data.v17.2.dll" />
+    <File FileSize="4733440" LastTime="2020-03-27:12:28:41" Ver="17.2.7.18110" Name="\DevExpress.Images.v17.2.dll" />
+    <File FileSize="2073088" LastTime="2020-03-27:12:28:48" Ver="17.2.7.18110" Name="\DevExpress.Office.v17.2.Core.dll" />
+    <File FileSize="2939904" LastTime="2020-03-27:12:28:48" Ver="17.2.7.18110" Name="\DevExpress.Pdf.v17.2.Core.dll" />
+    <File FileSize="2837504" LastTime="2020-03-27:12:28:54" Ver="17.2.7.18110" Name="\DevExpress.PivotGrid.v17.2.Core.dll" />
+    <File FileSize="4287488" LastTime="2020-03-27:12:28:48" Ver="17.2.7.18110" Name="\DevExpress.Printing.v17.2.Core.dll" />
+    <File FileSize="6513664" LastTime="2020-03-27:12:28:55" Ver="17.2.7.18110" Name="\DevExpress.RichEdit.v17.2.Core.dll" />
+    <File FileSize="83456" LastTime="2020-03-27:12:28:48" Ver="17.2.7.18110" Name="\DevExpress.Sparkline.v17.2.Core.dll" />
+    <File FileSize="11031552" LastTime="2020-03-27:12:28:50" Ver="17.2.7.18110" Name="\DevExpress.Utils.v17.2.dll" />
+    <File FileSize="1724416" LastTime="2020-03-27:12:28:52" Ver="17.2.7.18110" Name="\DevExpress.Xpo.v17.2.dll" />
+    <File FileSize="6204928" LastTime="2020-03-27:12:28:52" Ver="17.2.7.18110" Name="\DevExpress.XtraBars.v17.2.dll" />
+    <File FileSize="6041600" LastTime="2020-03-27:12:28:54" Ver="17.2.7.18110" Name="\DevExpress.XtraEditors.v17.2.dll" />
+    <File FileSize="3325952" LastTime="2020-03-27:12:28:54" Ver="17.2.7.18110" Name="\DevExpress.XtraGrid.v17.2.dll" />
+    <File FileSize="2029056" LastTime="2020-03-27:12:28:54" Ver="17.2.7.18110" Name="\DevExpress.XtraLayout.v17.2.dll" />
+    <File FileSize="812032" LastTime="2020-03-27:12:28:54" Ver="17.2.7.18110" Name="\DevExpress.XtraPivotGrid.v17.2.dll" />
+    <File FileSize="1080832" LastTime="2020-03-27:12:28:54" Ver="17.2.7.18110" Name="\DevExpress.XtraPrinting.v17.2.dll" />
+    <File FileSize="1789952" LastTime="2020-03-27:12:28:55" Ver="17.2.7.18110" Name="\DevExpress.XtraScheduler.v17.2.Core.dll" />
+    <File FileSize="2424832" LastTime="2020-03-27:12:28:55" Ver="17.2.7.18110" Name="\DevExpress.XtraScheduler.v17.2.dll" />
+    <File FileSize="1455616" LastTime="2020-03-27:12:28:57" Ver="17.2.7.18110" Name="\DevExpress.XtraTreeList.v17.2.dll" />
+    <File FileSize="15360" LastTime="2018-04-28:11:55:17" Ver="1.0.0.1" Name="\libzkfpcsharp.dll" />
+    <File FileSize="275968" LastTime="2017-03-08:19:25:40" Ver="2.0.8.0" Name="\log4net.dll" />
+    <File FileSize="15360" LastTime="2020-04-09:15:48:03" Ver="1.0.0.0" Name="\RightingSys.BLL.dll" />
+    <File FileSize="41472" LastTime="2020-04-09:15:48:02" Ver="1.0.0.0" Name="\RightingSys.DAL.dll" />
+    <File FileSize="615424" LastTime="2020-04-09:15:52:56" Ver="1.0.0.0" Name="\RightingSys.exe" />
+    <File FileSize="22528" LastTime="2020-04-09:15:48:00" Ver="1.0.0.0" Name="\RightingSys.Models.dll" />
+    <File FileSize="3647" LastTime="2020-04-09:15:51:12" Ver="" Name="\UpdateList.xml" />
+  </Files>
+</AutoUpdate>
